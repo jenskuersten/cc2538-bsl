@@ -1,4 +1,4 @@
-# Upgrade firmware
+# Upgrade Sonoff coordinator firmware
 Follow instructions given here: https://sonoff.tech/wp-content/uploads/2021/12/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-1-1.pdf
 
 TL;DR:
